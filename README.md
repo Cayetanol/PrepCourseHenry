@@ -1,2 +1,1 @@
-# PrepCouse-Henry
-PrepCouse-Henry aprendizaje creando repositorio
+Este proyecto es una prueba de crear un repositorio y clonarlo desde github a mi escritorio
